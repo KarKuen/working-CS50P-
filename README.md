@@ -1,2 +1,4 @@
-# working-CS50P-
-Reformat working hours
+# working (CS50P)
+
+##### CS50P Week 7 Problem set
+* Reformat working hours
